@@ -3,7 +3,7 @@
 <<<<<<< HEAD
 Make some more changes
 
-by me him and her
+by me him and her and more and some others
 
 ## Overview
 
