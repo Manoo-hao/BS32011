@@ -1,6 +1,6 @@
 # Title
 
-by Authors
+by Au
 
 ## Overview
 
