@@ -2,7 +2,7 @@
 
 Make some more changes
 
-by Authors me him and her
+by me him and her
 
 ## Overview
 
